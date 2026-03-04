@@ -22,7 +22,7 @@
 <br/>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" /> I'm currently working on [**Android apps & side projects that solve real problems**](https://github.com/rohan-jadhav-dev/TaxmitraPro-App)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Plants/Seedling.png" width="25" /> I'm currently learning **AI/ML & Data Science — adding brains to the things I build** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="20" />
+- 🌱 I'm currently learning **AI/ML & Data Science — adding brains to the things I build** 🤓
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" /> I'm looking for help with [**My taxation app — integrating real govt API access to make tax filing actually simple**](https://github.com/rohan-jadhav-dev/TaxmitraPro-App) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="25" /> I'm looking to collaborate on **Open-source Android/mobile projects or any fun dev idea**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="25" /> Ask me about **Android Development, Java, Kotlin & building apps from scratch**
@@ -36,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" /> Connect with Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" />
+## 🌐 Connect with Me 🤝👋
 
 <p align="center">
   <a href="https://linkedin.com/in/rohanjadhav667" target="_blank">
@@ -142,7 +142,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohan-jadhav-dev&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rohan-jadhav-dev&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
